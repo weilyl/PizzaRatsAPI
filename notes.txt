@@ -1,0 +1,21 @@
+1. Models
+2. Controllers (bc they use models to create things)
+3. Routes (bc they need handlers in controllers)
+4. Router brought into server.js
+    - endpoint in routes
+
+models always capitalized
+classes capitalized by convention
+
+DEBUGGING KEY
+cannot verb - bad url or bad route
+404 - bar url or bad route, or server is not running
+400 there is error in your route handler
+
+resources from Suresh:
+https://tools.keycdn.com/traceroute
+https://www.trycake.com/
+
+WEDS - DEPLOYMENT
+
+** GET YOUR BACKEND API FROM YESTERDAY RUNNING AND LOAD THE FRONTEND INDEX.HTML IN THE BROWSER, LEAVE EMOJI WHEN COMPLETE
